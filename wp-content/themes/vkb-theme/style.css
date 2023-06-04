@@ -1,0 +1,17 @@
+/*
+Theme Name: vkb-theme
+Theme UI: http://localhost/ju-tawk-wp/
+Author: Viktor
+Author URI: vkb-theme
+Version: 1.3
+Text Domain: vkb-theme
+*/
+
+body {
+    background-color: #333333;
+    color: beige;
+}
+
+header {
+    background-color: red;
+}
